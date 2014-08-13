@@ -1,0 +1,26 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GFX/GfxObject.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Battle/AIControl.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GFX/GfxObject.cs" Line="134" Column="32" />
+      <File FileName="Assets/Scripts/GFX/CTransform.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GFX/CAnimation.cs" Line="198" Column="41" />
+      <File FileName="Assets/Scripts/Battle/CmdControl.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Battle/CmdState/CmdStateBase.cs" Line="78" Column="5" />
+      <File FileName="Assets/Scripts/GFX/StateControl.cs" Line="88" Column="22" />
+      <File FileName="Assets/Scripts/GFX/State/AttackState.cs" Line="3" Column="19" />
+      <File FileName="Assets/Scripts/GFX/State/StateBase.cs" Line="30" Column="43" />
+      <File FileName="Assets/Scripts/GFX/State/DieState.cs" Line="109" Column="10" />
+      <File FileName="Assets/Scripts/GFX/State/HurtState.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GFX/State/IdleState.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GFX/State/MoveBackState.cs" Line="77" Column="55" />
+      <File FileName="Assets/Scripts/GFX/State/MoveState.cs" Line="2" Column="19" />
+      <File FileName="Assets/Scripts/GFX/State/SkillState.cs" Line="4" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
